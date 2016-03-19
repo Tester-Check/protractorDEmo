@@ -6,7 +6,7 @@ describe('go to the moblie angular url', function(){
 
     beforeEach(function(){
         //browser.ignoreSynchronization = true;
-        browser.get('http://mobileangularui.com/demo/#/');
+        browser.get('');
 
         //element(by.css("a[href='/demo']")).click();
         //browser.ignoreSynchronization = false;
