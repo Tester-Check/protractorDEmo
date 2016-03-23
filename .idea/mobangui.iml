@@ -11,5 +11,7 @@
     <orderEntry type="library" name="jasmine-node-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="selenium-webdriver-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="node-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-matchers-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-promise-matchers-DefinitelyTyped" level="application" />
   </component>
 </module>
